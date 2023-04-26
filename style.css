@@ -16,7 +16,7 @@ html,
 body {
   margin: 0;
   font-family: "Montserrat", "Arial", sans-serif;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 20px;
 }
 
@@ -52,7 +52,7 @@ nav::before,
 section::before,
 article::before,
 aside::before {
-  color: #9779ec;
+  color: #9776ec;
 }
 
 h1 {
